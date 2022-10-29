@@ -1,0 +1,17 @@
+1. Select all order records where the name of the shipping country starts with 'U'
+
+2. Select the order records (include order ID, customer ID, weight and ship country columns) to be shipped to countries whose name starts with 'N', sort by weight (descending) and display only the first 10 records.
+
+3. Select records of employees (include columns for first name, last name, phone number, region) in which the region is unknown
+
+4. Calculate the number of customers whose region is known
+
+5. Count the number of suppliers in each country and sort the grouping results in descending order
+
+6. Calculate the total weight of orders (in which the region is known) by country, then filter by the total weight (display only those records where the total weight is greater than 2750) and sort in descending order of the total weight.
+
+7. Select all unique countries of customers and suppliers and sort countries in ascending order
+
+8. Select such countries in which both customers and suppliers and employees are "registered" at the same time.
+
+9. Select countries in which customers and suppliers are "registered" at the same time, but workers are not "registered" in them.
